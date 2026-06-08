@@ -1,15 +1,13 @@
 Developed an AI-powered Smart Exam Proctoring System using OpenCV and Python to monitor online examinations in real time. The system detects candidate presence, identifies multiple faces in the camera frame, and flags suspicious activities during exams. Implemented real-time face detection, violation monitoring, and automated candidate verification using computer vision techniques to improve examination integrity and reduce malpractice.
+
 Features
-Real-time webcam monitoring
-Face detection using OpenCV Haar Cascade Classifier
-Candidate verification
-Multiple face detection
-No-face detection alerts
-Real-time status display
-Lightweight and easy to deploy
+Real-time webcam monitoring ,
+Face detection using OpenCV Haar Cascade Classifier .
+Candidate verification ,
+Multiple face detection ,
+No-face detection alerts ,
+Real-time status display ,
+Lightweight and easy to deploy,
 Beginner-friendly computer vision project
-Technologies Used
-Python 3.x
-OpenCV
-NumPy
+
 <img width="1920" height="1080" alt="Screenshot (571)" src="https://github.com/user-attachments/assets/8d47e3fa-a78d-4acb-8d6f-2b1c2066ad03" />
